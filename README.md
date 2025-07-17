@@ -1,6 +1,6 @@
-# 🤹 Website Project: 무비306
+# 🎥 Website Project: Movie 306
 
-안녕하세요! 무비306 프로젝트에 대한 README입니다.
+안녕하세요! Movie 306 프로젝트에 대한 README입니다.
 
 ---
 
@@ -257,5 +257,5 @@
 
 ## 5. 관련 링크
 
-* [프로젝트 GitHub Repository](https://github.com/hyohee22/frip.git)
-* [배포된 웹사이트 링크]([https://your-deployed-site-link](https://hyohee22.github.io/frip/index.html)
+* [프로젝트 GitHub Repository] https://github.com/hyohee22/Movie.git
+* [배포된 웹사이트 링크] https://coruscating-palmier-1f4905.netlify.app/
