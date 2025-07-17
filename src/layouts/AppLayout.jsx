@@ -12,7 +12,7 @@ const AppLayout = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if(keyword.trim() !== ''){
-      navigata('/movies?keyword=${keyword}');
+      navigata(`/movies?keyword=${keyword}`);
       setkeyword('')
     }
   }
